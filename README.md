@@ -148,6 +148,38 @@ The successful deployment of our model will empower healthcare professionals to 
 - sklearn for model evaluation
 - Jupyter Notebook or Jupyter Lab environment
 
+## Source Code
+
+The source code for this project is available on GitHub.
+
+- [COVID-19 and Pneumonia Detection Using Convolutional Neural Networks](https://github.com/19wh1a0419/COVID-19-AND-PNEUMONIA-DETECTION-USING-CON
+
+
+## Steps to Run the Project:
+
+1. **Clone the Repository:**
+   - Begin by cloning the repository containing the project files.
+
+2. **Install Dependencies:**
+   - Install the necessary dependencies by downloading and importing the required libraries.
+
+3. **Download Dataset:**
+   - Download the dataset containing images for both Pneumonia and COVID cases.
+
+4. **Organize Data:**
+   - Create a new folder for the project and extract the Pneumonia and COVID data folders into it.
+   - Define the data directories according to the created folders.
+
+5. **Prepare Data Directories:**
+   - Create a new folder (in this case, named "result folder") to store CSV files containing image paths and labels for both Pneumonia and COVID datasets.
+
+6. **Run Source Code:**
+   - Execute the source code to begin data preprocessing, model training, and evaluation.
+
+7. **Prepare Sample Folder:**
+   - Create a "sample" folder containing random unlabeled images to predict their classes.
+
+
 ## Conclusion
 
 Through this project, we were able to create a functional and reliable system for automated detection and classification of respiratory conditions from Chest X-ray images, contributing to improved diagnosis and patient care, particularly for COVID-19 and Pneumonia.
